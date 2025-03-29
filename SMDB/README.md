@@ -10,14 +10,14 @@ This repository describes a comprehensive pipeline for secondary metabolites ana
 
 ### 1. Data Download
 Retrieve datasets from the following sources:
-- [NPcVar] (https://npcvar.idrblab.net/download)
-- [NP-MRD] (https://np-mrd.org/downloads)
-- [coconut2.0] (https://coconut.naturalproducts.net/download)
-- [NPASSv2.0] (https://bidd.group/NPASS/downloadnpass.html)
-- [NPAtlas] (https://www.npatlas.org/download)
-- [supernatural3.0] (https://bioinf-applied.charite.de/supernatural_3/subpages/faq.php)
-- [TCMBank] (https://tcmbank.cn/Download)
-- [TeroKit_V2.5] (http://terokit.qmclab.com/data.html)
+- [NPcVar](https://npcvar.idrblab.net/download)
+- [NP-MRD](https://np-mrd.org/downloads)
+- [coconut2.0](https://coconut.naturalproducts.net/download)
+- [NPASSv2.0](https://bidd.group/NPASS/downloadnpass.html)
+- [NPAtlas](https://www.npatlas.org/download)
+- [supernatural3.0](https://bioinf-applied.charite.de/supernatural_3/subpages/faq.php)
+- [TCMBank](https://tcmbank.cn/Download)
+- [TeroKit_V2.5](http://terokit.qmclab.com/data.html)
 
 ### 2. Retrosynthetic Inference (BioNavi-NP)
 - Use **BioNavi-NP** (Biosynthetic pathways navigation for natural products) for:
