@@ -1,7 +1,8 @@
 
 # Data Processing Pipeline for Secondary Metabolites Analysis
 
-![Project Overview](https://github.com/GreatChenLab/GNDC/blob/main/SMDB/Image/pipeline.png)
+![HerbalMDB pipeline](https://github.com/user-attachments/assets/dfddd779-e088-40c8-ac2b-81baae20b8e9)
+
 
 This repository describes a comprehensive pipeline for secondary metabolites analysis, combining data downloading, retrosynthetic analysis, similarity calculation, and multiple predictive modeling steps.
 
