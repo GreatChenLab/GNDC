@@ -1,6 +1,7 @@
 # Data Processing Pipeline for Small Peptides
 
-![HerbalPDB pipeline](./img/banner-CUbVJyQB.png)
+![Uploading Figures S3.jpg…]()
+
 
 ## Pipeline Workflow
 
