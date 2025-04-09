@@ -1,6 +1,7 @@
 # Data Processing Pipeline for Small Peptides
 
-![Uploading Figures S3.jpg…]()
+
+![Uploading Figures S3.png…]()
 
 
 ## Pipeline Workflow
