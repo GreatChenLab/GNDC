@@ -1,6 +1,6 @@
 # Data Processing Pipeline for Small RNA Analysis
 
-![HerbalRDB pipeline](./img/banner-CUbVJyQB.png)
+![HerbalRDB pipeline](./img/HerbalRDB pipeline.png)
 
 ## Pipeline Workflow
 
