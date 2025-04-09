@@ -1,6 +1,6 @@
 # Data Processing Pipeline for Small RNA Analysis
 
-![HerbalRDB pipeline](./img/HerbalRDB pipeline.png)
+![HerbalRDB pipeline](https://github.com/user-attachments/assets/30995503-1fc4-4748-919b-f6fc00ecc542)
 
 ## Pipeline Workflow
 
