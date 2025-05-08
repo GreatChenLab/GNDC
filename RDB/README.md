@@ -15,6 +15,7 @@ Retrieve datasets from the following sources:
 ### 2. Genome predicted Small RNA
 
 -  Rfam database (version 14.10) alongside INFERNAL software (version 1.1.4) were used for ncRNA prediction. High-confidence predictions were further refined to extract snRNAs and miRNAs. The parameters used for Rfam were "-cut_ga -rfam -nohmmonly -fmt 2", while INFERNAL was executed with "cmscan -cut_ga -nohmmonly -cpu 16 --tblout out.tblout -fmt 2 -clanin Rfam.clanin -rfam Rfam.cm genome.fa". For tRNA sequence characterization, tRNAscan-SE (version 2.0.12) was employed with the parameters "-E -j tRNA.gff -o tRNA.result -f tRNA.struct". Additionally, rRNA prediction was conducted using rRNAmmer (version 1.2) with the parameters "-S euk -m tsu, lsu, ssu".
+-  The seqkit software was used to identify and eliminate duplicate sRNA entries that were output in the same species. This process was executed with the parameter set to 'rmdup -s'.
 
 ### 3. Pre-processing for miRNA-seq
 
