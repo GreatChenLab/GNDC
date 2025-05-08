@@ -1,7 +1,9 @@
 
 # Data Processing Pipeline for Secondary Metabolites Analysis
 
-![HerbalMDB pipeline](https://github.com/user-attachments/assets/dfddd779-e088-40c8-ac2b-81baae20b8e9)
+![HerbalMDB pipeline](https://github.com/user-attachments/assets/3590452a-6234-4c22-a457-b762d8cc8f08)
+
+
 
 
 This repository describes a comprehensive pipeline for secondary metabolites analysis, combining data downloading, retrosynthetic analysis, similarity calculation, and multiple predictive modeling steps.
